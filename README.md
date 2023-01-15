@@ -1,11 +1,15 @@
 # Advanced
-  Programming Fundamentals with Java May 2022
+Hello this is my homeworks and exercise from modules Java Advanced in Softuni
+
+  Java Advanced - september 2022
   
-  1. Basic Syntax, Conditional Statements and Loops
+  1. Stacks and Queues
   
-        1.2 Exercise: Basic Syntax, Conditional Statements and Loops
+        1.2 Exercise: Stacks and Queues
   
-  2. Git and GitHub
+  2. Multidimensional Arrays
+    
+    2.1 Exercise: Multidimensional Arrays
   
   3. Data Types and Variables
   
