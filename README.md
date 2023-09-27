@@ -41,4 +41,4 @@ Hello this is my homeworks and exercise from modules Java Advanced in Softuni
   
              9.2 Exercise: Iterators and Comparators
         
-    10. Exam  Preparation
+    10. Exam Preparation
